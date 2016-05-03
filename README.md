@@ -1,5 +1,5 @@
 ## DateTimeExecutor
 
 ```bash
-gradle test
+./gradlew test
 ```
